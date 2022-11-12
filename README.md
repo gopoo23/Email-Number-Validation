@@ -8,6 +8,7 @@
 Check-Id is a web application created with the help of HTML, CSS, JavaScript .Let's check the email and phone number with it. This is a simple project. If user gives wrong email or number then it will show wrong and ask to enter correct email or number. When the correct email or number is entered by us, a cute little tick mark will appear next to the box and the input will be submitted.
 
 
+
 ## Technologies Used
 
 - HTML
